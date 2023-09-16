@@ -83,6 +83,15 @@ body{
     justify-content: space-evenly;
 }
 
+.progress, progress{
+    width: 100%;
+
+}
+
+.time{
+    padding: 0 20px;
+}
+
 button{
     padding: 5px 20px;
     border: none;
